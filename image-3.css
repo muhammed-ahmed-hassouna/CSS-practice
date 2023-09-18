@@ -1,0 +1,34 @@
+h2 {
+    text-decoration-line: underline;
+}
+hr {
+    width:500px;
+    margin-right: 2000px;
+}
+
+.First {
+    color: #332aff;
+}
+.Second {
+    color: #ffb122;
+} 
+.Third {
+    background-color:#ffff00;
+    color: #92246e;
+}
+.Fourth {
+    color: red;
+}
+.Fifth {
+    list-style-type: circle; color: #332aff;
+}
+.Sixth {
+    color: red;
+}
+.Seventh {
+    list-style-type: none; color: #332aff;
+    margin-left: 40px;
+}
+.Eighth {
+    color: red;
+}

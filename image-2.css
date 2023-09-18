@@ -1,0 +1,25 @@
+.cont {
+    background-color: #fffff1;
+    border-right: 4px solid;
+    height: 400px;
+    width: 50%;
+}
+.q{
+background-color: #eaeaed;
+float: left;
+width: 200px;
+margin-right: 20px;
+overflow: hidden;
+height: 105px;
+}
+
+
+p.i {
+margin-top: 140px;  
+border-bottom: 2px solid;
+border-top: 2px solid;
+width: 100%;
+overflow: auto;
+height: 55px;
+
+}
